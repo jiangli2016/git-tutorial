@@ -2,5 +2,6 @@
 #Come On!
 
 - fix-B
--feture-A
+-feature-A
+-feature-C
 
